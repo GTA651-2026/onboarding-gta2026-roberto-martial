@@ -10,8 +10,8 @@
 
 ## 1. Outil utilisé
 
-Outil : __
-Version / date d'accès : __
+Outil : ChatGpt
+Version / date d'accès : 05-13-2026
 
 *(Si plusieurs outils, dupliquez cette section.)*
 
