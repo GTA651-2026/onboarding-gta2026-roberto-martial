@@ -28,19 +28,18 @@ il m'a premis de comprendre ceque represente GitHub Copilot Enterprise  et de co
 ## 3. Sources et chiffres que j'ai vérifiés moi-même
 
 *(Pour chaque affirmation ou chiffre fourni par l'IA → source primaire consultée.)*
-
-- __
-- __
-
----
+Accélération de 55 % de la vitesse d'exécution.
+Source : Étude expérimentale de Microsoft Research (2023) intitulée "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot".
+Chiffre : Taux de satisfaction de 88 %.
+    Source : Enquête quantitative de GitHub (2022) publiée dans le rapport "Quantifying GitHub Copilot’s Impact on Developer Productivity and Happiness".
 
 ## 4. Ce que j'ai modifié ou rejeté
 
 *(Ce que l'IA a proposé mais que vous avez changé, corrigé ou écarté — et pourquoi.)*
 
-- __
-- __
+J'ai dû vérifier que les 30 % de code acceptés ne signifiaient pas que l'IA travaillait seule, mais que ces suggestions étaient validées et intégrées par des humains pour assurer la sécurité et la conformité.
 
+Contexte de l'étude des 55 % : L'IA a initialement présenté ce chiffre comme une généralité absolue. J'ai corrigé cela en précisant qu'il s'agissait d'un test contrôlé sur une tâche spécifique (création d'un serveur HTTP en JavaScript) pour ne pas surestimer l'impact sur des projets complexes.
 ---
 
 ## 5. Déclaration de responsabilité
@@ -48,5 +47,5 @@ il m'a premis de comprendre ceque represente GitHub Copilot Enterprise  et de co
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : __
-Date : __
+Nom : Samnick tong roberto
+Date : 14/05/2026
